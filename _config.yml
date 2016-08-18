@@ -1,0 +1,14 @@
+layout_spectrum: 0.6522332464810461
+typography_spectrum: 0.6566519651096314
+color:
+  brandStrength: 0.5199531491380185
+  lightness: 0.7572263670153916
+  saturation: 0.7728904150426388
+  rhythmicContrast: 0.3822736581787467
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Banana-info
